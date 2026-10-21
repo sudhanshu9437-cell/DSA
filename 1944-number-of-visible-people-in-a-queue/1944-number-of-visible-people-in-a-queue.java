@@ -1,27 +1,3 @@
-// class Solution {
-//     public int[] canSeePersonsCount(int[] heights) {
-//         int n = heights.length;
-//         int arr[] = new int[n];
-//         for(int i = 0; i<n-1; i++){
-//             Stack <Integer> st = new Stack<>();
-//             for(int j = i+1; j<n; j++){
-//                 if(st.size() == 0) st.push(heights[j]);
-
-//                 else{
-//                     if(st.peek() < heights[j]) st.push(heights[j]);
-//                 }
-
-//                 if(st.peek() > heights[i]) break;
-//             }
-//             int k = st.size();
-//             arr[i] = ;
-//         }
-//         arr[n-1] = 0;
-//         return arr;
-
-//     }
-// }
-
 class Solution {
     public int[] canSeePersonsCount(int[] heights) {
         int n = heights.length;
