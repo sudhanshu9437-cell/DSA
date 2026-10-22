@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/sudhanshu9437-cell/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sudhanshu9437-cell/DSA/tree/master/0085-maximal-rectangle) |
+| [0155-min-stack](https://github.com/sudhanshu9437-cell/DSA/tree/master/0155-min-stack) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/sudhanshu9437-cell/DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
 |  |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/sudhanshu9437-cell/DSA/tree/master/0085-maximal-rectangle) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/sudhanshu9437-cell/DSA/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
