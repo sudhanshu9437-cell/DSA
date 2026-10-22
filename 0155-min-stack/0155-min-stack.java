@@ -9,11 +9,12 @@ class MinStack {
     
     public void push(int value) {
         st.push(value);
-        if(stm.isEmpty()) stm.push(value);
-        else{
+        if(!stm.isEmpty()){
             if(value <= stm.peek()) stm.push(value);
             else stm.push(stm.peek());
         }
+        else stm.push(value);
+        
     }
     
     public void pop() {
