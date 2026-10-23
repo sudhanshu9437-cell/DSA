@@ -9,10 +9,6 @@ class MyQueue {
     }
     
     public void push(int x) {
-        if(s1.isEmpty()){
-            s1.push(x);
-            return;
-        }
 
         while(!s1.isEmpty()){
             s2.push(s1.pop());
